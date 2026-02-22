@@ -27,14 +27,6 @@ The script automatically downloads and utilizes the **CIFAR100** dataset via `to
 * **Optimizer:** Stochastic Gradient Descent (SGD) with a learning rate of 0.001 and momentum of 0.9.
 * **Loss Function:** Cross Entropy Loss.
 
-## Usage
-
-Execute the script using Python:
-
-```bash
-python <script_name>.py
-
-```
 
 ## Output
 
